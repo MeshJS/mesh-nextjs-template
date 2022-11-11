@@ -1,0 +1,26 @@
+{
+  "name": "starter-next-ts-template",
+  "version": "0.1.0",
+  "private": true,
+  "description": "A Mesh starter template",
+  "author": "MartifyLabs",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@martifylabs/mesh": "^1.2.0",
+    "@martifylabs/mesh-react": "^1.0.0",
+    "@types/node": "18.11.9",
+    "@types/react": "18.0.25",
+    "@types/react-dom": "18.0.8",
+    "eslint": "8.27.0",
+    "eslint-config-next": "13.0.2",
+    "next": "13.0.2",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "typescript": "4.8.4"
+  }
+}
