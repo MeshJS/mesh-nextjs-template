@@ -1,9 +1,10 @@
 {
   "name": "starter-next-ts-template",
-  "version": "0.1.0",
-  "private": true,
   "description": "A Mesh starter template",
+  "version": "0.1.0",
+  "private": "true",
   "author": "MartifyLabs",
+  "license": "Apache-2.0",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -11,8 +12,8 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@martifylabs/mesh": "^1.2.0",
-    "@martifylabs/mesh-react": "^1.0.0",
+    "@martifylabs/mesh": "1.2.0",
+    "@martifylabs/mesh-react": "1.0.1",
     "@types/node": "18.11.9",
     "@types/react": "18.0.25",
     "@types/react-dom": "18.0.8",

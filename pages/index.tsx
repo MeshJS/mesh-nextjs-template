@@ -23,9 +23,9 @@ export default function Home() {
           <a href="https://mesh.martify.io/">Mesh</a> Next.js
         </h1>
 
-        <p className="demo">
+        <div className="demo">
           <CardanoWallet />
-        </p>
+        </div>
 
         <div className="grid">
           <a href="https://mesh.martify.io/apis" className="card">
