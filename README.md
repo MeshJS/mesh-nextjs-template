@@ -1,10 +1,18 @@
+# Starter Next.js TypeScript
+
+Start a new project on Next.js. This starter template consists of a connect wallet button and wallet integration.
+      
 ## Getting Started
 
-Start project with this template:
+Start project locally using CLI:
 
 ```bash
 npx create-mesh-app starter-next-ts-template
 ```
+
+Start your project on [Demeter](https://demeter.run/):
+
+[![Code in Cardano Workspace](https://demeter.run/code/badge.svg)](https://demeter.run/code?repository=https://github.com/MartifyLabs/starter-next-ts-template.git&template=typescript)
 
 ## Learn More
 
