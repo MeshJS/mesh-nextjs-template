@@ -1,5 +1,5 @@
 import Head from "next/head";
-import { CardanoWallet, MeshBadge } from "@martifylabs/mesh-react";
+import { CardanoWallet, MeshBadge } from "@meshsdk/react";
 
 export default function Home() {
   return (
