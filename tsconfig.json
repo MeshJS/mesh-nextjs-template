@@ -23,10 +23,10 @@
     "jsx": "preserve",
     "noEmit": true,
     "noUnusedLocals": false,
-    "noImplicitAny": false
-  },
-  "paths": {
-    "@/*": ["./src/*"]
+    "noImplicitAny": false,
+    "paths": {
+      "@/*": ["./src/*"]
+    }
   },
   "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx"],
   "exclude": ["node_modules"]
